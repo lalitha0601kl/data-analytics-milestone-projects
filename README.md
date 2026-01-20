@@ -1,4 +1,4 @@
-# Data-analytics-milestone-projects
+# Data-analytics
 This repository contains my Data Analytics milestone and reinforcement projects including Excel, SQL, Power BI, Python, and business analysis tasks.
  Name: R Lalitha  
  Career Objective: Data Analyst / Marketing Analyst  
